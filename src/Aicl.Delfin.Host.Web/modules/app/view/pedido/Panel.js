@@ -227,7 +227,7 @@ Ext.define('App.view.pedido.Form', {
                             anchor: '100%',
                             name: 'Observacion',
                             fieldLabel: 'Observacion',
-                            value:'LOS EQUIPOS SE RECIBEN PREVIA AUTORIZACION DEL LABORATORIO.',
+                            value:'Esta oferta está sujeta a revisión y puede ser modificada una vez recibido e inspeccionado el ítem.',
                             enforceMaxLength: true,
                             maxLength: 128,
                             maxLengthText: 'The maximum length for this field is 128'
